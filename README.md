@@ -352,3 +352,11 @@ Para uma medida mais apurada, é feito n leituras e então calculado um valor m�
    return ValorEntrada;
   }
 ```
+
+# Referências
+
+https://www.usinainfo.com.br/blog/sensor-de-turbidez-projeto-de-leitura-da-qualidade-da-agua/
+https://randomnerdtutorials.com/guide-to-neo-6m-gps-module-with-arduino/#more-49434
+https://blog.eletrogate.com/gps-neo-6m-com-arduino-aprenda-usar/
+https://blog.eletrogate.com/sensores-dht11-dht22/
+https://www.blogdarobotica.com/2022/05/02/como-utilizar-o-display-lcd-16x02-com-modulo-i2c-no-arduino/
