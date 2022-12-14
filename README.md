@@ -7,6 +7,10 @@ tempo real via satélites e um LDR que liga um lâmpada para iluminação. Infor
 
 Não há necessidade de conexão com a rede pois tudo roda localmente offline.
 
+# Arquitetura do Projeto
+
+![image](https://user-images.githubusercontent.com/110292178/207584974-bca790b8-b7b6-4183-9179-8f3809ff6394.png)
+
 # Lista de Materiais
 
 | Item | Quantidade | Link Referência |
