@@ -9,7 +9,7 @@ Não há necessidade de conexão com a rede pois tudo roda localmente offline.
 
 # Funcionamento
 
-
+https://user-images.githubusercontent.com/110292178/208086199-2af4d621-87a4-4e71-b90c-4cbe83f5e9d7.MOV
 
 # Arquitetura do Projeto
 
