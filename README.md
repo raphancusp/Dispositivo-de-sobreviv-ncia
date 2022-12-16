@@ -11,6 +11,8 @@ Não há necessidade de conexão com a rede pois tudo roda localmente offline.
 
 https://user-images.githubusercontent.com/110292178/208086199-2af4d621-87a4-4e71-b90c-4cbe83f5e9d7.MOV
 
+https://user-images.githubusercontent.com/110292178/208086544-f8e3392a-385b-46fb-9ab5-a715c023f259.MOV
+
 # Arquitetura do Projeto
 
 ![image](https://user-images.githubusercontent.com/110292178/207584974-bca790b8-b7b6-4183-9179-8f3809ff6394.png)
